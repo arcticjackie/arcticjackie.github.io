@@ -50,6 +50,11 @@ body {
     margin-bottom: 2rem;
 }
 
+.jacquelinegli:hover,
+.jacquelinegli:focus {
+    color: #ffa500;
+}
+
 .masthead-brand {
     margin-bottom: 0;
 }
