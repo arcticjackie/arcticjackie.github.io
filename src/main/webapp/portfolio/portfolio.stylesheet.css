@@ -14,7 +14,11 @@
 }
 
 .card-text {
-    color: black;
+    color: gray;
+}
+
+.card-title {
+    color:darkslategrey;
 }
 
 /*.card col{*/
